@@ -1,0 +1,4 @@
+pillow==9.5.0
+google-genai==0.3.0
+pydantic==1.10.9
+google-colab==1.0.0
