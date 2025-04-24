@@ -1,3 +1,0 @@
-pillow==11.2.1
-google-genai==1.10.0
-pydantic==2.11.3
